@@ -12,3 +12,5 @@ sentence_transformers
 langchain-together
 unstructured
 together
+pyPDF2
+streamlit
