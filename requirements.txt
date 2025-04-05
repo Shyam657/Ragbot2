@@ -1,0 +1,16 @@
+jedi>=0.16 
+cryptography>=41.0.5,<44
+streamlit==1.32.0
+langchain==0.1.11
+langchain-community==0.0.29
+langchain-core==0.1.27
+langchain-together==0.0.2
+langchain-chroma==0.0.16
+langchain-text-splitters==0.0.1
+arxiv==2.1.0
+pymupdf==1.24.1
+python-dotenv==1.0.1
+chromadb==0.4.24
+matplotlib==3.8.2
+pdfminer.six==20231228
+pillow==10.2.0
